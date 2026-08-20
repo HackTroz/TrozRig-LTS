@@ -1,6 +1,8 @@
 # TrozRig-LTS
 minecraft blender rig that based on Troz rig and available for some across blender version without losing any feature from other rig
 
+for now theres a two branch now, FAstable as the main branch and FAgen for new feature
+
 ## Troz rig platfrom available list :
 - [Blender 2.8](Troz_rig_LTS28.blend)
 - [Blender 3.6](Troz_rig_LTS36.blend)
